@@ -1,5 +1,4 @@
-import React from 'react'
-import { cn } from '../lib/utils'
+import { cn } from '@/src/shared/lib/utils'
 
 const categories = ['Пиццы', 'Комбо', 'Закуски', 'Коктейли', 'Кофе', 'Напитки', 'Десерты']
 const activeIndex = 0

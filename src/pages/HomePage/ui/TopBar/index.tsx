@@ -1,5 +1,6 @@
-import { Categories, SortPopup } from "@/src/shared/components"
 import { Container } from "@/src/shared/ui"
+import { Categories } from "./ui/Categories"
+import { SortPopup } from "./ui/SortPopup"
 
 const TopBar = () => {
   return (
